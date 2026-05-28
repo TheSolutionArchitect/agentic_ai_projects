@@ -4,7 +4,7 @@ hands-on projects for agentic ai
 ### Commands
 ```
 # Activate env
-source .venv/bin/active
+source .venv/bin/activate
 
 # Install dependencies
 pip install -r requirements.txt
